@@ -4,6 +4,7 @@ const app = new Vue({
     el : '#app',
     data : {
         messaggio : 'Titolone',
-        image : 'img/img1.jpg'
+        image : 'img/img1.jpg',
+        descrizione : 'cucciolo di cane'
     }
 });
